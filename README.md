@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kikifachrizi
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning some programing language like JS
+- 🌱 I’m currently learning some programing language like PHP
 - 💞️ I’m looking to collaborate on fix my code
 - 📫 How to reach me kikifachrizi@gmail.com
 
